@@ -7,5 +7,5 @@
 [LAB 07] (https://github.com/shreenidh2/siri/blob/main/Lab-07)
 [LAB 08] (https://github.com/shreenidh2/siri/blob/main/Lab-08)
 [LAB 09] (https://github.com/shreenidh2/siri/blob/main/AIML_LAB9)
-
+[LAB 10] (https://github.com/shreenidh2/siri/blob/main/LAB_10)
 
